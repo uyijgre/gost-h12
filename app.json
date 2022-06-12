@@ -1,5 +1,5 @@
 { 
-  "name": "Gost",
+  "name": "gost-h12",
   "description": "Deploy Gost to Heroku.",
   "keywords": ["Gost"],
   "env": {
